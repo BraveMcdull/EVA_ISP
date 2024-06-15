@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="raw">
+      <UniqueIdentifier>{9bb54a2b-253f-4a38-af98-0fbb4ae2fdfb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="EVA.cpp">
+      <Filter>raw</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
